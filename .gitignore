@@ -3,3 +3,5 @@ prevent_action
 Package.resolved
 modal_bash
 keyboard_disabler
+klgr/.build
+klgr/Package.resolved
